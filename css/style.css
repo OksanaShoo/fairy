@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0 10%;
+    background: url("http://fonerus.ru/_ph/93/2/958988916.jpg?1507393109");
+}
+
+.gallery {
+    margin: 50px 0 10px 0;
+    width: 100%;
+    border: 3px solid black;
+}
+
+.one-item {
+    height: 450px;
+}
+
+.one-item img {
+    width: 100%;
+}
+
+.filters {
+    height: 70px;
+    background: black;
+    width: 100%;
+
+}
+
+.content {
+    margin: 10px 0;
+}
+
+.view_0 {
+    border: 3px solid black;
+    background: white;
+}
+
+.view_0 h1 {
+    border-bottom: 3px solid black;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+    padding: 7px;
+}
+
+.view_0-img {
+    height: 150px;
+    background-size: cover !important;
+    background-position: center !important;
+    border-bottom: 3px solid black;
+}
+
+.view_0 span {
+    display: block;
+    padding: 10px;
+    text-align: justify;
+}
+
+.din_din {
+    position: fixed;
+    left: 2%;
+    top: 10px;
+
+}
